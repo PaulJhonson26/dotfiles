@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eliott2610@gmail.com
+	name = Eliott Regnier
